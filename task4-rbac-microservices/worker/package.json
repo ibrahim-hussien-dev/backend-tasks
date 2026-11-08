@@ -1,0 +1,10 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "pg": "^8.12.0"
+  }
+}

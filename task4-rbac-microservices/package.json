@@ -1,0 +1,8 @@
+{
+  "name": "task4-rbac-microservices",
+  "version": "1.0.0",
+  "description": "RBAC API + RabbitMQ worker + Docker Compose",
+  "scripts": { "test": "node --test tests/api.test.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
